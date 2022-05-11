@@ -1,0 +1,17 @@
+body {
+	color: green;
+	font-family: verdana, tahoma, georgia, arial;
+	text-align: center;
+}
+
+h1 {
+	font-family: "roboto", sans-serif;
+}
+
+h3 {
+	font-family: tahoma, georgia, arial;
+}
+
+img {
+	width: 30%;
+}
